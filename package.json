@@ -5,7 +5,7 @@
   "author": "GeorgeMickael",
   "dependencies": {
     "antd": "^3.20.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "geopattern": "^1.2.3",
     "grommet": "^2.7.3",
     "polished": "^3.4.1",
